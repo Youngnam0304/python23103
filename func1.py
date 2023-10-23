@@ -15,3 +15,9 @@ def swap(x,y):
 #함수 호출
 result = swap(5,6)
 print(result)
+
+
+def setValue(newValue):
+    x = newValue #newValue는 지역변수
+
+retValue = newValue(10)
