@@ -25,6 +25,6 @@ account1.deposit(5000)
 account1.withdraw(3000)
 print(account1)
 #읽기
-print(account1.__balance)
+#print(account1.__balance)
 #숨김처리가 되어 있기 때문에 디버깅시 오류가 발생한다. 
 
